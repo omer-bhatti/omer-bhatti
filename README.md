@@ -4,7 +4,7 @@
 
 I've been building production web apps for 7+ years. I mostly work with the MERN stack (MongoDB, Express, React.js, Node.js) and with Laravel, Vue.js and Inertia.js. My work includes CRMs, operations dashboards and AI platforms, where I've built RAG pipelines and LangChain / LangGraph agent workflows.
 
-📍 Teaneck, NJ, USA · 💼 [LinkedIn](https://www.linkedin.com/in/omer-bhatti-b336a943a)
+📍 Teaneck, NJ, USA · 💼 [LinkedIn](https://www.linkedin.com/in/omer-bhatti-b336a943a) · 📧 [omerbhatti3521@gmail.com](mailto:omerbhatti3521@gmail.com)
 
 ---
 
@@ -74,3 +74,4 @@ I've been building production web apps for 7+ years. I mostly work with the MERN
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omer-bhatti-b336a943a)
+[![Email](https://img.shields.io/badge/Email-omerbhatti3521%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omerbhatti3521@gmail.com)
